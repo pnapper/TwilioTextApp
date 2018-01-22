@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F505F3D9-3BD7-4A48-B9B2-318AA99263BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.TwilioProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwilioProject/TwilioProject.csproj">
+    <Files>
+      <File FileName="TwilioProject/Program.cs" Line="9" Column="36" />
+      <File FileName="TwilioProject/TwilioProject.csproj" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

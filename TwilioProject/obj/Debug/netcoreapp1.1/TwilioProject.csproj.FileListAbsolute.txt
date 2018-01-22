@@ -1,0 +1,10 @@
+/Users/Guest/Projects/TwilioProject/TwilioProject/bin/Debug/netcoreapp1.1/TwilioProject.deps.json
+/Users/Guest/Projects/TwilioProject/TwilioProject/bin/Debug/netcoreapp1.1/TwilioProject.runtimeconfig.json
+/Users/Guest/Projects/TwilioProject/TwilioProject/bin/Debug/netcoreapp1.1/TwilioProject.runtimeconfig.dev.json
+/Users/Guest/Projects/TwilioProject/TwilioProject/bin/Debug/netcoreapp1.1/TwilioProject.dll
+/Users/Guest/Projects/TwilioProject/TwilioProject/bin/Debug/netcoreapp1.1/TwilioProject.pdb
+/Users/Guest/Projects/TwilioProject/TwilioProject/obj/Debug/netcoreapp1.1/TwilioProject.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/TwilioProject/TwilioProject/obj/Debug/netcoreapp1.1/TwilioProject.AssemblyInfo.cs
+/Users/Guest/Projects/TwilioProject/TwilioProject/obj/Debug/netcoreapp1.1/TwilioProject.dll
+/Users/Guest/Projects/TwilioProject/TwilioProject/obj/Debug/netcoreapp1.1/TwilioProject.pdb
+/Users/Guest/Projects/TwilioProject/TwilioProject/obj/Debug/netcoreapp1.1/TwilioProject.csproj.CoreCompileInputs.cache
